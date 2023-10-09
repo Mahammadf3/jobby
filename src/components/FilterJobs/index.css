@@ -1,0 +1,30 @@
+.filterContainer{
+    display:flex;
+    flex-direction: column;
+    width:20vw;
+
+}
+.l{
+    color:aliceblue
+}
+.proMan{
+    display: flex;
+    flex-direction: column;
+}
+.manCard{
+    box-shadow: 0px 4px 16px 0px  #64748b;
+    display:flex;
+    flex-direction: column;
+    background-image: url("https://assets.ccbp.in/frontend/react-js/profile-bg.png");
+    background-size: cover;
+    margin: 12px;
+    border-bottom-left-radius:12px ;
+    border-bottom-right-radius:12px ;
+}
+.ph{
+    height:70px;
+    width:7vw;
+}
+.hLine{
+    width:19vw;
+}

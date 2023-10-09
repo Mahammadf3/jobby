@@ -1,0 +1,92 @@
+.hello{
+    color:aliceblue;
+}
+.partContainer{
+    background-color: #272727;
+    background-size: cover;
+    height: 100%;
+}
+.similarCard{
+    display: flex;
+    flex-direction: column;
+    background-color: #2c364c;
+    margin-top: 15px;
+    margin-left: 12px;
+    margin-right: 12px;
+
+}
+.logoCard{
+    display:flex;
+    flex-direction: row;
+}
+.facebook{
+    height: 100px;
+    width:80px;
+    margin:12px;
+}
+.details{
+    display:flex;
+    flex-direction: column;
+}
+.barPack{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.location{
+    display: flex;
+    flex-direction: row;
+}
+.packLine{
+    width:100%;
+}
+.skillImages{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.hiSkill{
+    display: flex;
+    flex-direction: column;
+    margin:20px;
+}
+.amazon{
+    height: 100px;
+    width:80px;
+}
+.lifeCard{
+    display: flex;
+    flex-direction: row;
+    margin: 12px;
+}
+.similarFace{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.finalCard{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 4px 16px 0px #202020;
+    width:30vw;
+    margin: 12px;
+    border-radius: 12px;
+}
+.finalEmo{
+    height:90px;
+    width:80px;
+    margin: 12px;
+}
+.helloLastCard{
+    display:flex;
+    flex-direction: row;
+}
+.rateCard{
+    display: flex;
+    flex-direction: column;
+}
+.saveCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

@@ -1,0 +1,12 @@
+.fillTime{
+    color:antiquewhite;
+    margin-left: 12px;
+    cursor: pointer;
+}
+.emp{
+    display: flex;
+    flex-direction: column;
+}
+.hrline{
+    width: 19vw;
+}
